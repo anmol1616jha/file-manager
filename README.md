@@ -70,6 +70,10 @@ The app uses localStorage to persist:
 
 No query parameters are used in URLs.
 
-## License
+## TODO (Future Scope)
 
-MIT
+- Responsiveness
+- Better icons
+- Date Range filter for files
+- Single scroll view for multi paged PDFs. Currently there is button based approach
+- Security stuffs
