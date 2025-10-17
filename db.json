@@ -1,0 +1,36 @@
+{
+  "files": [
+    {
+      "id": "1",
+      "fileName": "Sample Document.pdf",
+      "uploadedDate": "2024-10-10T10:30:00.000Z",
+      "uploadedBy": "John Doe",
+      "fileType": "pdf",
+      "fileUrl": "/sample.pdf"
+    },
+    {
+      "id": "2",
+      "fileName": "Project Image.png",
+      "uploadedDate": "2024-10-12T14:45:00.000Z",
+      "uploadedBy": "Jane Smith",
+      "fileType": "image",
+      "fileUrl": "/sample-image.png"
+    },
+    {
+      "id": "3",
+      "fileName": "Report Q3.pdf",
+      "uploadedDate": "2024-10-15T09:15:00.000Z",
+      "uploadedBy": "Mike Johnson",
+      "fileType": "pdf",
+      "fileUrl": "/sample2.pdf"
+    },
+    {
+      "id": "1760625384798",
+      "fileName": "civil-engineering-syllabus.pdf",
+      "uploadedDate": "2025-10-16T14:36:24.798Z",
+      "uploadedBy": "Anonymous",
+      "fileType": "pdf",
+      "fileUrl": "blob:http://localhost:5173/9bcd1bd7-b850-4162-991f-1ae16f088345"
+    }
+  ]
+}
