@@ -1,4 +1,5 @@
-const API_URL = 'http://localhost:3001';
+const API_URL = 'https://file-manager-4kt5.onrender.com'; // Production URL
+// const API_URL = 'http://localhost:3001'; // Local development URL
 
 export const filesApi = {
   getAllFiles: async () => {

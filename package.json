@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "concurrently \"vite\" \"npm run server\"",
+    "frontend": "concurrently \"vite\"",
     "server": "json-server --watch db.json --port 3001",
     "build": "vite build",
     "lint": "eslint .",
