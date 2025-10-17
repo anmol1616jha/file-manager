@@ -1,4 +1,4 @@
-<img width="3073" height="3762" alt="Mermaid Chart - Create complex, visual diagrams with text -2025-10-15-080821" src="https://github.com/user-attachments/assets/090e4cc2-d741-4ff6-babe-51a16619e1fc" /># File Manager
+# File Manager
 
 A modern file management application built with React, TanStack Query, and JSON Server.
 
